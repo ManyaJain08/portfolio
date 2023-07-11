@@ -1,0 +1,100 @@
+.first{
+    height:590px;
+    width:1250px;
+    background-color: aliceblue;
+    padding-top: 0px;
+}
+
+.nav{
+    width:1250px;
+    height: 70px;
+    font-size: 50px;
+    color: darksalmon;
+    float:left;
+    border-bottom:2px solid black;
+    background-color:lightgrey;
+   
+}
+
+a:hover{
+    color:brown
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color:darkblue;
+    float: right;
+    padding:8px;
+}
+
+i{
+    font-size: 40px;
+    color:brown
+}
+
+p{
+    font-size: 30px;
+}
+
+.second{
+    width:625px;
+    text-align: center;
+    float: left;
+}
+
+h2{
+    margin-top: 150px;
+}
+
+.image{
+    width:400px;
+    float:right;
+    height:520px;
+    border-radius: 20px;
+}
+
+.contact{
+    height:500px;
+    width:800px;
+    float: left;
+    text-align:center;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.image2{
+    width:410px;
+    float:right;
+    height:400px;
+}
+
+.work{
+    width:1250px;
+}
+
+.newthird{
+    float:right;
+    margin-top: -34px;
+}
+
+h1{
+    width:1250px;
+    border-bottom: black solid;
+}
+
+
+.newfirst{
+    width:1250px;
+    background-color: aliceblue;
+    height:100%;
+}
+
+.newfourth{
+    float: right;
+    margin-top:-23px;
+}
+
+
